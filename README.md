@@ -450,4 +450,4 @@ After the workflow completes, you should observe:
 References:
 https://docs.github.com/en
 
-!<Image Path>
+![Repository](images/repository.png)
